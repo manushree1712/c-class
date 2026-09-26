@@ -17,7 +17,7 @@ int main(){
     
 
 
-    // 2
+    // // 2
 
     // int x,y,z;
     // printf("enter num for x: ");  scanf("%d", &x);
@@ -38,4 +38,7 @@ int main(){
     //     printf("invalid");
     // }
 
+        
+
+    return 0;
 }
